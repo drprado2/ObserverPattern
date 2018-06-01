@@ -1,0 +1,11 @@
+C:\Users\adriano.oliveira\Documents\Projetos\ObserverPattern\ObserverPattern.Console\bin\Debug\netcoreapp2.0\ObserverPattern.ConsoleApp.deps.json
+C:\Users\adriano.oliveira\Documents\Projetos\ObserverPattern\ObserverPattern.Console\bin\Debug\netcoreapp2.0\ObserverPattern.ConsoleApp.runtimeconfig.json
+C:\Users\adriano.oliveira\Documents\Projetos\ObserverPattern\ObserverPattern.Console\bin\Debug\netcoreapp2.0\ObserverPattern.ConsoleApp.runtimeconfig.dev.json
+C:\Users\adriano.oliveira\Documents\Projetos\ObserverPattern\ObserverPattern.Console\bin\Debug\netcoreapp2.0\ObserverPattern.ConsoleApp.dll
+C:\Users\adriano.oliveira\Documents\Projetos\ObserverPattern\ObserverPattern.Console\bin\Debug\netcoreapp2.0\ObserverPattern.ConsoleApp.pdb
+C:\Users\adriano.oliveira\Documents\Projetos\ObserverPattern\ObserverPattern.Console\obj\Debug\netcoreapp2.0\ObserverPattern.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\adriano.oliveira\Documents\Projetos\ObserverPattern\ObserverPattern.Console\obj\Debug\netcoreapp2.0\ObserverPattern.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\adriano.oliveira\Documents\Projetos\ObserverPattern\ObserverPattern.Console\obj\Debug\netcoreapp2.0\ObserverPattern.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\adriano.oliveira\Documents\Projetos\ObserverPattern\ObserverPattern.Console\obj\Debug\netcoreapp2.0\ObserverPattern.ConsoleApp.AssemblyInfo.cs
+C:\Users\adriano.oliveira\Documents\Projetos\ObserverPattern\ObserverPattern.Console\obj\Debug\netcoreapp2.0\ObserverPattern.ConsoleApp.dll
+C:\Users\adriano.oliveira\Documents\Projetos\ObserverPattern\ObserverPattern.Console\obj\Debug\netcoreapp2.0\ObserverPattern.ConsoleApp.pdb

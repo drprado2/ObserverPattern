@@ -1,0 +1,4 @@
+C:\Users\adriano.oliveira\Documents\Projetos\ObserverPattern\ObserverPattern.Console\obj\Debug\netcoreapp2.0\ObserverPattern.Console.csprojAssemblyReference.cache
+C:\Users\adriano.oliveira\Documents\Projetos\ObserverPattern\ObserverPattern.Console\obj\Debug\netcoreapp2.0\ObserverPattern.Console.csproj.CoreCompileInputs.cache
+C:\Users\adriano.oliveira\Documents\Projetos\ObserverPattern\ObserverPattern.Console\obj\Debug\netcoreapp2.0\ObserverPattern.Console.AssemblyInfoInputs.cache
+C:\Users\adriano.oliveira\Documents\Projetos\ObserverPattern\ObserverPattern.Console\obj\Debug\netcoreapp2.0\ObserverPattern.Console.AssemblyInfo.cs
